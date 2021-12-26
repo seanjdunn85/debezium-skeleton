@@ -1,0 +1,4 @@
+proxy/*
+debezium-mongodb
+poc-ddd-aggregates
+.env
